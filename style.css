@@ -1,0 +1,81 @@
+.dj {
+    background: center / cover no-repeat url(https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/9b21aa66b4922ae2.png);
+}
+
+.kkkk {
+    text-align: center;
+}
+
+.di {
+    width: 100vw;
+}
+.dh {
+    height: 100vh;
+}
+.bl {
+    overflow: hidden;
+}
+.al {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+
+.cu {
+    bottom: 0;
+}
+.ch {
+    right: 0;
+}
+.cd {
+    -webkit-box-align: center;
+    align-items: center;
+}
+.b1 {
+    color: #000000;
+}
+.at {
+    left: 0;
+}
+.as {
+    top: 0;
+}
+.al {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+.ag {
+    position: absolute;
+}
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.am {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+}
+body {
+    background: #FFFFFF;
+    color: #000000;
+    font-family: UberMoveText, sans-serif;
+}
+
+.ep {
+    height: 80px;
+}
+
+.e1 {
+    flex-shrink: 0;
+}
